@@ -1,0 +1,49 @@
+#page.watch-medium #watch7-video, #page .watch-medium #watch7-video, #page .watch-medium #player {
+	width: 1280px !important;
+}
+
+#page.watch-medium #watch7-player, #page .watch-medium #watch7-player, #page .watch-medium #player-api {
+	width: 1280px !important;
+	height: 750px !important;
+	margin: 10px !important;
+    margin-left: 70px !important;
+}
+
+.watch-medium #watch7-playlist-tray-container {
+	height: 724px !important;
+}
+.watch-playlist-collapsed #watch7-playlist-tray-container {
+	height: 0 !important;
+}
+
+.watch-medium .watch7-playlist-bar, .watch-medium #watch7-main {
+	width: 1280px !important;
+}
+
+.watch-medium #watch7-sidebar, .watch-large #watch7-sidebar {
+	width: 610px;
+	max-width: 610px;
+}
+
+.watch-medium .watch-sidebar-body li, .watch-large .watch-sidebar-body li {
+	display: inline-block;
+	width: 300px;
+}
+
+.watch-medium #watch-more-related-button, .watch-large #watch-more-related-button {
+	margin-left: 305px;
+}
+
+
+#watch-video.large #watch-player, #watch-video.medium #watch-player{
+	height: 750px !important;
+	margin: 0 auto !important;
+}
+
+#watch7-main.clearfix {
+	margin-left: 70px !important;
+}
+
+#watch-video.medium, #watch-video.large, #watch-video.large #watch-player, #watch-video.medium #watch-player {
+	width: 1280px !important;
+}
