@@ -47,3 +47,11 @@
 #watch-video.medium, #watch-video.large, #watch-video.large #watch-player, #watch-video.medium #watch-player {
 	width: 1280px !important;
 }
+
+#guide-container {
+	display: none !important;
+}
+
+.site-left-aligned.guide-enabled #player, .site-left-aligned.guide-enabled #watch7-main-container {
+	padding-left: 0px !important;
+}
