@@ -41,7 +41,8 @@
 }
 
 #watch7-main.clearfix {
-	margin-left: 70px !important;
+	margin-left: 0px !important;
+  	width: 1280px !important;
 }
 
 #watch-video.medium, #watch-video.large, #watch-video.large #watch-player, #watch-video.medium #watch-player {
@@ -53,5 +54,32 @@
 }
 
 .site-left-aligned.guide-enabled #player, .site-left-aligned.guide-enabled #watch7-main-container {
-	padding-left: 0px !important;
+	padding-left: auto !important;
+  	padding-right: auto !important;
+}
+
+div#watch7-main-container {
+	padding-left: 21% !important;
+}
+
+div#watch7-container.watch-wide {
+	width: 1375px !important;
+}
+
+body>#body-container {
+	margin-left: 0px !important;
+}
+
+div#yt-masthead-container {
+	width: auto !important;
+  	margin-left: 15.3% !important;
+	margin-right: 17.8% !important;
+}
+
+watch7-content.watch-content {
+	width: 900px !important;
+}
+div#footer-container.yt-base-gutter {
+	margin-left: 15.3% !important;
+	margin-right: 17.8% !important;
 }
